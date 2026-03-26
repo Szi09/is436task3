@@ -1,0 +1,4 @@
+MYSQL_DATABASE=IS436
+MYSQL_USER=grouph
+MYSQL_PASSWORD=grouph_password
+MYSQL_ROOT_PASSWORD=grouph_root_password
